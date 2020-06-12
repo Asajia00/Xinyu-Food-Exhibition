@@ -11,17 +11,11 @@ body {
 </style>
 
 <!--add a head-->
-<style>
-h1 {
-  text-align: center;
+
 }
 <h1 style="color:Aqua;">What To Eat?</h1>
 <hr>
 </head>
-<style>
-<!--add a Background-->
-
-
 
 
 
