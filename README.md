@@ -10,17 +10,9 @@
 </head>
 
 <!--add a Background-->
-<style>
-body {
-  background-image: url('background2');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
-}
-</style>
 
+<div style="background-image: url('Background3.jpg');">
 
-<hr>
 
 
 
@@ -116,9 +108,7 @@ take a look at these delicious foods, and then prepare these ingredients to make
 
 
 
-</div>
-  </div>
-</div>
+
 
 
 
