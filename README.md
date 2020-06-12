@@ -40,7 +40,6 @@ take a look at these delicious foods, and then prepare these ingredients to make
 <img src="xiaolongbao.jpg" alt ="Food" width="300">
 
 <hr>
-<div class="center">
 
 <ul>
   <li>Pork bones</li>
@@ -67,7 +66,7 @@ take a look at these delicious foods, and then prepare these ingredients to make
 
 </div>
   </div>
-</div>
+
 
 <!--Automatic Slideshow-->
  
