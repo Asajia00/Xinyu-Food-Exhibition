@@ -1,21 +1,29 @@
 
-<!DOCTYPE html>
+
 <html>
 
 <head>
-
+<!--background-->
+<style>
+body {
+  background-image: url("mission-background-image.png");
+}
+</style>
 
 <!--add a head-->
+<style>
+h1 {
+  text-align: center;
+}
 <h1 style="color:Aqua;">What To Eat?</h1>
 <hr>
 </head>
-
+<style>
 <!--add a Background-->
 
 
 
-background-image: url(https://foodservice.potatorolls.com/wp-content/uploads/2017/08/mission-background-image.png);
-}
+
 
 
 <body>
@@ -32,6 +40,8 @@ take a look at these delicious foods, and then prepare these ingredients to make
 <img src="xiaolongbao.jpg" alt ="Food" width="300">
 
 <hr>
+<div class="center">
+
 <ul>
   <li>Pork bones</li>
   <li>Flour</li>
@@ -57,7 +67,7 @@ take a look at these delicious foods, and then prepare these ingredients to make
 
 </div>
   </div>
-
+</div>
 
 <!--Automatic Slideshow-->
  
