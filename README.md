@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<html>
 <html lang="en-US">
  <head>
 
@@ -7,11 +7,17 @@
 <!--add a head-->
 <h1 style="color:Aqua;">What To Eat?</h1>
 <hr>
-<hr>
 </head>
 
 <!--add a Background-->
-<div style="background-image: url('background2.jpg');">
+<style>
+body {
+  background-image: url('background2');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
 
 
 <hr>
@@ -19,28 +25,29 @@
 
 
 <body>
-
-<h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p>
+<!--Automatic Slideshow-->
+ 
+<h2>Really delicious</h2>
+<p>Which One You Like</p>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="xiaolongbao.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <img src="xiaolongbao.jpg" style="width:50%">
+  <div class="text">XiaoLongBao</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="jidn.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <img src="jidn.jpg" style="width:50%">
+  <div class="text">Steamed Egg</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="Pizza.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="Pizza.jpg" style="width:50%">
+  <div class="text">Pizza</div>
 </div>
 
 </div>
