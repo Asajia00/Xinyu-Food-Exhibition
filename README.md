@@ -12,7 +12,7 @@ body {
 
 <!--add a head-->
 
-}
+
 <h1 style="color:Aqua;">What To Eat?</h1>
 <hr>
 </head>
@@ -24,8 +24,7 @@ body {
 
 
 <hr>
-<div class="row">
-    <div class="column"> 
+
  <!--add paragraph--> 
 <p style="background-color:LightCyan;">When you don't know what to eat, 
 take a look at these delicious foods, and then prepare these ingredients to make a rich dinner.</p>
@@ -33,8 +32,8 @@ take a look at these delicious foods, and then prepare these ingredients to make
 <h3 style="Color:LightPink;">1:XiaoLongBao</h3>
 <img src="xiaolongbao.jpg" alt ="Food" width="300">
 
-<hr>
 
+<!--Add list ul and ol-->
 <ul>
   <li>Pork bones</li>
   <li>Flour</li>
@@ -58,8 +57,58 @@ take a look at these delicious foods, and then prepare these ingredients to make
   <li>Put in steamer for 10-15 minutes</li>
 </ol>
 
-</div>
-  </div>
+<hr>
+<h3 style="Color:LightPink;">2:Steamed Egg</h3>
+<img src="jidn.jpg" alt ="Food" width="300">
+
+
+<ul>
+  <li>Egg</li>
+  <li>Water</li>
+  <li>Salt</li>
+  <li>Green Onion</li>
+  <li>Balsam oil</li>
+  <li>Soy Sauce</li>
+</ul>  
+
+<hr>
+<ol>
+  <li>Break up the eggs in a bowl</li>
+  <li>Add water and salt in the bowl Water:egg= 1:1</li>
+  <li>put in steamer for 10min</li>
+  <li> add soy sauce and green onlion on the top </li>  
+</ol>
+
+<hr>
+
+<h3 style="Color:LightPink;">3: Pizza</h3>
+<img src="Pizza.jpg" alt ="Food" width="300">
+
+
+<ul>
+  <li>(1/4 ounce) active dry yeast</li>
+  <li>1 teaspoon sugar</li>
+  <li>1 cups warm water</li>
+  <li>1/4 cup canola oil</li>
+  <li>1 teaspoon salt</li>
+  <li> 4 cups all-purpose flour</li>
+  <li>1/2 pound ground beef</li>
+  <li>1 small onion, chopped</li>
+  <li>(15 ounces) tomato sauce</li>
+  <li>3 teaspoons dried oregano</li>
+  <li>1 teaspoon dried basil</li>
+  <li>1 medium green pepper, diced</li>
+  <li>2 cups shredded part-skim mozzarella cheese</li>
+</ul>  
+
+<hr>
+<ol>
+  <li>In large bowl, dissolve yeast and sugar in water; let stand for 5 minutes. Add oil and salt. Stir in flour, a cup at a time, until a soft dough forms.</li>
+  <li>Turn onto floured surface; knead until smooth and elastic, about 2-3 minutes. Place in a greased bowl, turning once to grease the top. Cover and let rise in a warm place until doubled, about 45 minutes. Meanwhile, cook beef and onion over medium heat until no longer pink; drain.</li>
+  <li>Punch down dough; divide in half. Press each into a greased 12-in. pizza pan. Combine the tomato sauce, oregano and basil; spread over each crust. Top with beef mixture, green pepper and cheese.</li>
+  <li> Bake at 400° for 25-30 minutes or until crust is lightly browned. </li>  
+</ol>
+
 
 
 <!--Automatic Slideshow-->
