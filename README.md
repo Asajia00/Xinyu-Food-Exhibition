@@ -1,7 +1,8 @@
 
+<!DOCTYPE html>
 <html>
-<html lang="en-US">
- <head>
+
+<head>
 
 
 <!--add a head-->
@@ -74,7 +75,8 @@ function showSlides() {
 </script>
 
 <hr>
- 
+<div class="row">
+    <div class="column"> 
  <!--add paragraph--> 
 <p style="background-color:LightCyan;">When you don't know what to eat, 
 take a look at these delicious foods, and then prepare these ingredients to make a rich dinner.</p>
@@ -105,6 +107,8 @@ take a look at these delicious foods, and then prepare these ingredients to make
   <li>Put the stuffing and a spoonful of frozen broth into the rolled noodles, and then pinch.</li>
   <li>Put in steamer for 10-15 minutes</li>
 </ol>
+      </div>
+</div>
 
 
 
